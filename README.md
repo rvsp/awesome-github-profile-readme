@@ -11,3 +11,5 @@ Reach me <br/>
 <img align="left" alt="Venkatasubramanian R | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 <br>
+
+![Venkatasubramanian's Github stats](https://github-readme-stats.vercel.app/api?username=rvsp&show_icons=true&hide_border=true)
