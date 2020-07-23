@@ -12,4 +12,3 @@ Reach me <br/>
 </a>
 <br>
 
-![Venkatasubramanian's Github stats](https://github-readme-stats.vercel.app/api?username=rvsp&show_icons=true&hide_border=true)
