@@ -2,11 +2,15 @@
 
 ### Reach me
 
-![Twitter Follow](https://img.shields.io/twitter/follow/rvsp_i?color=%20%2300acee&label=Follow%20me%20on%20Twitter&style=for-the-badge)
 <a href="https://www.linkedin.com/in/rvsp/">
 <img align="left" alt="Venkatsubramanian R | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-
+<a href="https://twitter.com/rvsp_i">
+<img align="left" alt="Venkatsubramanian R | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://t.me/irvsp">
+<img align="left" alt="Venkatasubramanian R | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a><br>
 
 ---
 
