@@ -14,7 +14,11 @@
 
 ---
 
-<img align="left" alt="rvsp's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=rvsp&show_icons=true&hide_border=true&theme=radical"/>
-<img align="left" alt="rvsp's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rvsp&layout=compact" />
+![Venkat's github stats](https://github-readme-stats.codestackr.vercel.app/api?username=rvsp&show_icons=true&hide_border=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rvsp&layout=compact)](https://github.com/rvsp/)
+
+[![Venkat's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rvsp)](https://github.com/rvsp/)
+
 <br>
 <br>
