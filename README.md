@@ -10,3 +10,5 @@
 [![Venkat's github stats](https://github-readme-stats.vercel.app/api?username=rvsp&show_icons=true&hide_border=true&theme=radical&hide=issues,prs)](https://github.com/rvsp/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rvsp&layout=compact)](https://github.com/rvsp/)
+
+[](https://profile-counter.glitch.me/rvsp/count.svg)
