@@ -11,4 +11,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rvsp&layout=compact)](https://github.com/rvsp/)
 
-[](https://profile-counter.glitch.me/rvsp/count.svg)
+
+
+![](https://komarev.com/ghpvc/?username=rvsp&style=flat-square&label=PROFILE+VIEWS)
