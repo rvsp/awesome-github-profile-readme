@@ -9,9 +9,11 @@
 ![](https://komarev.com/ghpvc/?username=rvsp&style=flat-square&label=PROFILE+VIEWS)
 ---
 
-[![Venkat's github stats](https://github-readme-stats.vercel.app/api?username=rvsp&show_icons=true&hide_border=true&theme=radical&hide=issues,prs)](https://github.com/rvsp/)
+[![Venkat's github stats](https://github-readme-stats.vercel.app/api?username=rvsp&show_icons=true&hide_border=true&theme=radical)](https://github.com/rvsp/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rvsp&layout=compact)](https://github.com/rvsp/)
+[![Venkat's github streak](https://github-readme-streak-stats.herokuapp.com/?user=rvsp&theme=radical)](https://github.com/rvsp/)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rvsp&layout=compact&theme=radical&langs_count=6)](https://github.com/rvsp/)
 
 
 
